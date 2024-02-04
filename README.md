@@ -48,3 +48,6 @@ $ npm i
 ```
 $ node .
 ```
+
+<br /> 
+the default password is 12312312
