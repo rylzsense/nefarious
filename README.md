@@ -9,7 +9,8 @@
   
   
 <h2>features</h2>
-prob the best rylzgen version (yet):  
+prob the best rylzgen version (yet): <br /> 
+- support heromc & minefc (3fmc soon when web register is fixed) <br /> 
 - headless <br /> 
 - captcha solver included (NopeCHA) <br /> 
 - bypasses limit (using ZenRows) <br /> 
