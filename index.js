@@ -2,21 +2,14 @@ var ncToken;
 var type;
 var zrToken;
 
-const ReCaptchaBypass = require('recaptcha-bypass')
 const fs = require('fs')
 const { ZenRows } = require("zenrows");
 const puppeteer = require('puppeteer');
 const gradient = require('gradient-string');
 const path = require('path');
 const { nopecha, zenrows } = require('./configuration.json');
-const recaptchaBypass = require('recaptcha-bypass');
 
 let color = gradient(['#9a92dc', '#4c3dca', '#bd61af', '#cda9c8'])
-
-async function checkAlt(username, password) {
-  const reCaptchaBypass = new ReCaptchaBypass("https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LcHLH8mAAAAAMTsFRAk0M-82phr7G7f4-rOqYyt&co=aHR0cHM6Ly9pZC5taW5lZmMuY29tOjQ0Mw..&hl=en&v=MHBiAvbtvk5Wb2eTZHoP1dUd&size=invisible&cb=lsc7xulpfido")
-  const capToken = await reCaptchaBypass.bypass()
-}
 
 console.log(color(`
 ╔─────────────────────────────────────────────────╗
