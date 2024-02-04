@@ -10,9 +10,9 @@
   
 <h2>features</h2>
 prob the best rylzgen version (yet):  
-- headless  
-- captcha solver included (NopeCHA)  
-- bypasses limit (using ZenRows)  
+- headless <br /> 
+- captcha solver included (NopeCHA) <br /> 
+- bypasses limit (using ZenRows) <br /> 
 
 <h2>how to use?</h2>
 
