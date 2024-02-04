@@ -1,7 +1,5 @@
 <h1 align="center" id="title">nefarious</h1>
 
-<p id="description">rylzgen recode reborn v69</p>
-
 <p align="center"><img src="https://img.shields.io/badge/works%20for%20me%20and%20the%20devs-FFFFFF" alt="shields"><img src="https://img.shields.io/badge/0%20optimization-FFFFFF" alt="shields"><img src="https://img.shields.io/badge/spaghetti%20code-FFFFFF" alt="shields"></p>
 
 <h2>screenshot:</h2>
