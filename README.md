@@ -9,10 +9,10 @@
   
   
 <h2>features</h2>
-prob the best rylzgen version (yet): \
-- headless \
-- captcha solver included (NopeCHA) \
-- bypasses limit (using ZenRows) \
+prob the best rylzgen version (yet):  
+- headless  
+- captcha solver included (NopeCHA)  
+- bypasses limit (using ZenRows)  
 
 <h2>how to use?</h2>
 
