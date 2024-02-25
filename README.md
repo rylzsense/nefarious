@@ -1,1 +1,1 @@
-in development
+EOL - End of life
